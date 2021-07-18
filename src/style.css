@@ -1,0 +1,20 @@
+body {
+  background: rgb(161, 243, 161);
+}
+h1,
+p {
+  text-align: center;
+  color: white;
+}
+img {
+  display: block;
+  margin: auto;
+}
+.links {
+  display: flex;
+  justify-content: center;
+}
+a {
+  text-decoration: none;
+  color: rgb(113, 175, 113);
+}
